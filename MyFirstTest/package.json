@@ -1,0 +1,17 @@
+{
+  "name": "myfirsttest",
+  "version": "1.0.0",
+  "description": "testing using jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "unit-testing"
+  ],
+  "author": "vania",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
